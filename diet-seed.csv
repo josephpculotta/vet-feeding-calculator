@@ -1,0 +1,5 @@
+brand,diet_name,species,unit_type,kcal_per_unit,vetsource_url,vetcove_url
+Purina Pro Plan Veterinary Diets,EN Gastroenteric Canine,Dog,Cup,360,https://<your-hospital-vetsource-link>,
+Purina Pro Plan Veterinary Diets,DM Feline,Cat,5.5 oz can,189,https://<your-hospital-vetsource-link>,
+Royal Canin Veterinary Diet,Multi Urinary/HP Feline,Cat,Cup,342,https://<your-hospital-vetsource-link>,
+Hill's Prescription Diet,i/d Canine,Dog,13 oz can,350,https://<your-hospital-vetsource-link>,
